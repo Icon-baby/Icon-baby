@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🎓 **Software Engineer | Web Developer | Tech Enthusiast**  <br>📍 Based in Kenya | 🌍 Building for the world</p>
+<p align="left">🎓 Software Engineer | Web Developer | Tech Enthusiast  <br>📍 Based in Kenya | 🌍 Building for the world</p>
 
 ###
 
@@ -82,7 +82,7 @@
 
 ###
 
-<h4 align="left">🔥   Tech Stats :<br>Languages: JavaScript / TypeScript, Python, Dart, Java  <br>Frontend: React, Next.js 14, Tailwind CSS, HTML5, CSS3  <br>Backend:Node.js, Express, Convex, Firebase, Supabase  <br>Database: PostgreSQL, MongoDB, Convex DB, Firebase Firestore  <br>Tools & Platforms: Git, GitHub, Docker, Vercel, Netlify  <br>Currently Learning: AI/ML integrations, GraphQL, Go</h4>
+<h4 align="left">🔥   Tech Stats:<br>Languages: JavaScript / TypeScript, Python, Dart, Java  <br>Frontend: React, Next.js 14, Tailwind CSS, HTML5, CSS3  <br>Backend:Node.js, Express, Convex, Firebase, Supabase  <br>Database: PostgreSQL, MongoDB, Convex DB, Firebase Firestore  <br>Tools & Platforms: Git, GitHub, Docker, Vercel, Netlify  <br>Currently Learning: AI/ML integrations, GraphQL, Go</h4>
 
 ###
 
