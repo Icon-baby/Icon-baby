@@ -86,7 +86,7 @@
 
 ###
 
-<p align="left">🚀 Featured Projects<br><br>Here are some of the projects I'm working on:<br><br>🎙️ [AI Podcast SaaS App](https://github.com/your-username/ai-podcast-app) <br>  An innovative platform with AI-generated voices and images, built with Next.js and Convex.<br><br>💼 [Personal Portfolio](https://github.com/your-username/portfolio)<br>  A developer portfolio showcasing projects, tech skills, and experience.<br><br>🧰 [Convex + Next.js Starter Template](https://github.com/your-username/convex-nextjs-starter) <br><br>  Boilerplate for building SaaS apps quickly with modern tools.</p>
+<p align="left">🚀 Featured Projects<br><br>Here are some of the projects I'm working on:<br><br>🎙️ [AI Podcast SaaS App](https://github.com/your-username/ai-podcast-app) <br>  An innovative platform with AI-generated voices and images, built with Next.js and Convex.<br><br>💼 [Personal Portfolio]([https://my-portfolio-eta-kohl-98.vercel.app/])<br>  A developer portfolio showcasing projects, tech skills, and experience.<br><br>🧰 [Convex + Next.js Starter Template](https://github.com/your-username/convex-nextjs-starter) <br><br>  Boilerplate for building SaaS apps quickly with modern tools.</p>
 
 ###
 
